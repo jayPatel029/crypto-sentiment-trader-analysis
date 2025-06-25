@@ -1,0 +1,16 @@
+# Ignore all CSV files
+*.csv
+
+!fear_greed_index.csv
+!historical_data.csv
+
+.ipynb_checkpoints/
+
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc

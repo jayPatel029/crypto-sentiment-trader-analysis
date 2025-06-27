@@ -3,9 +3,6 @@
 ## 📌 Overview
 
 This project explores the relationship between market sentiment and trading behavior using historical trading data and Fear & Greed Index sentiment scores. It combines data cleaning, merging, exploratory analysis, and pattern recognition — ultimately drawing insights into trader profitability and risk appetite across sentiment phases.
-
-Ideal for showcasing skills in **Python, pandas, data visualization, and statistical analysis** for a data intern role.
-
 ---
 
 ## 📁 Dataset Summary
